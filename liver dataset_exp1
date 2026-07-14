@@ -1,16 +1,6 @@
 {
   "cells": [
     {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/istanranjith175b-commits/Exploring-datasets/blob/main/liver%20dataset_exp1\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
       "cell_type": "code",
       "source": [
         "import pandas as pd\n",
@@ -20,12 +10,12 @@
       ],
       "metadata": {
         "id": "S6mpc_GjeMJ3",
-        "outputId": "742ec715-29bd-4109-e560-3dd86951c6c6",
+        "outputId": "a26b6ca9-af5e-4388-ba3b-fc6cf2106365",
         "colab": {
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 4,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -100,8 +90,7 @@
   "metadata": {
     "colab": {
       "name": "Welcome To Colab",
-      "provenance": [],
-      "include_colab_link": true
+      "provenance": []
     },
     "kernelspec": {
       "display_name": "Python 3",
